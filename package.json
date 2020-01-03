@@ -1,0 +1,18 @@
+{
+  "name": "tranxuantung215nodejstutorial",
+  "version": "1.0.0",
+  "description": "this is a testing",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testt"
+  ],
+  "author": "tranxuantung215 <tranxuantung215@gmail.com> (https://www.linkedin.com/in/tung-tran-a42162a3/)",
+  "license": "ISC"
+}

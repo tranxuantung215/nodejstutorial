@@ -4,7 +4,11 @@
   "description": "this is a testing",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "mongodb": "^3.4.1",
+    "pug": "^2.0.4",
+    "request": "^2.88.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,5 +18,13 @@
     "testt"
   ],
   "author": "tranxuantung215 <tranxuantung215@gmail.com> (https://www.linkedin.com/in/tung-tran-a42162a3/)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranxuantung215/nodejstutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tranxuantung215/nodejstutorial/issues"
+  },
+  "homepage": "https://github.com/tranxuantung215/nodejstutorial#readme"
 }
